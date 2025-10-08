@@ -4,8 +4,6 @@ Machine Learning project to predict bank customer churn using classification mod
 A Machine Learning project that predicts whether a bank customer is likely to exit (churn) or stay, based on their profile and account activity.
 Built using classification algorithms and deployed with Streamlit for an interactive live demo.
 
--> Live Demo : 🔗 Click here to try the app
-
  **Project Overview** :  Customer churn is a major challenge for banks. This project helps identify customers who are likely to leave, allowing proactive retention strategies.
                          The model is trained on the Bank Customer Churn dataset and uses multiple ML algorithms to find the best performer.
 
