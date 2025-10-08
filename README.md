@@ -39,3 +39,5 @@ Built using classification algorithms and deployed with Streamlit for an interac
 1.Achieved high accuracy with Random Forest Classifier.
 2.Built an interactive UI to test new customer data.
 3.Provides instant prediction: “Customer will Exit” or “Customer will Stay”.
+
+***REMIANDER** : “Model file not included due to size limits. Retrain locally using the notebook provided.”
